@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Awesome Custom Search Engines
 
 
@@ -276,4 +275,3 @@ Otherwise to use the native search engines manager in chrome:
 4. Press space
 5. Type in your search query
 6. *Now* press enter
->>>>>>> refs/remotes/origin/master
