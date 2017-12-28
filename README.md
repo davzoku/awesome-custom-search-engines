@@ -14,6 +14,8 @@ I have specified certain entries that you might find useful.
 + `whris` helps film junkies to find filming locations
 + `whois`, `whohost` might come in handy when doing a lookup
 
+*Ultimately, practice makes perfect! Practice those handy keystrokes regularly. Adding duplicate entries with different keyword length helps if you always forget to trigger those one letter keyword entries.*
+
 
 ### The Search Engines
 
