@@ -32,7 +32,7 @@ I have specified certain entries that you might find useful.
 | Amazon | az  | http://www.amazon.com/s/ref=nb\_sb\_noss?url=search-alias%3Daps&field-keywords=%s |     |
 | Amazon | amazon | http://www.amazon.com/s/ref=nb\_sb\_noss?url=search-alias%3Daps&field-keywords=%s |     |
 | ASOS | asos | http://www.asos.com/search/%s?q=%s |     |
-| Audible.com | bloom | https://www.audible.com/search?keywords=%s |     |
+| Audible.com | audible | https://www.audible.com/search?keywords=%s |     |
 | Bloomberg | bloom | https://www.bloomberg.com/search?query=%s |     |
 | Bloomberg | bb  | https://www.bloomberg.com/search?query=%s |     |
 | CDNjs | cdn | https://www.google.com.sg/search?ei=TOg\_Wq3gOcnsvATCk7QY&q=site%3Acdnjs.com+%s&oq=site%3Acdnjs.com+%s&gs\_l=psy-ab.3...19620.19932.0.20121.3.3.0.0.0.0.44.132.3.3.0....0...1c.1.64.psy-ab..0.0.0....0.2I3CH58U0rc | Search for CDN links |
@@ -88,6 +88,7 @@ I have specified certain entries that you might find useful.
 | NLB | nlb | https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?optionsDrop=Full+Catalogue&ENTRY=%s&ENTRY\_NAME=BS&ENTRY\_TYPE=K&SORTS=SQL\_REL\_BIB&GQ=%sISGLB=0&NRECS=20&QRY=&QRYTEXT= | National Library Board Singapore |
 | npm | npm | https://www.npmjs.com/search?q=%s |     |
 | Pinterest | pinterest | http://www.pinterest.com/search/pins/?q=%s |     |
+| Prime Video | pv | https://www.primevideo.com/search/?phrase=%s |     |
 | qoo10.sg | qoo10 | https://www.qoo10.sg/s/%s?keyword=shirt&keyword\_auto\_change= |     |
 | Quora | quora | http://www.quora.com/opensearch/query?q=%s |     |
 | Quora | q   | http://www.quora.com/opensearch/query?q=%s |     |
@@ -162,3 +163,7 @@ Otherwise to use the native search engines manager in chrome:
 4. Press space
 5. Type in your search query
 6. *Now* press enter
+
+### Other Usages
+
+- This list is also applicable for [Alfred](https://www.alfredapp.com/) Web Search functionality. Just replace `%s` with `{query}`. [For More Info](https://www.alfredapp.com/help/features/web-search/)
