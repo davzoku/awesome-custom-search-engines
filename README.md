@@ -62,7 +62,7 @@ I have specified certain entries that you might find useful.
 | Github | git | https://github.com/search?q=%s&ref=opensearch |     |
 | Gmail | gm  | https://mail.google.com/mail/u/0/#search/%s | Search through your gmail from omnibar directly! |
 | Goodreads | gr  | https://www.goodreads.com/search?q=%s |     |
-| Google Search | goo  | https://www.google.com/search?q= | Just a google search |
+| Google Search | goo  | https://www.google.com/search?q=%s | Just a google search |
 | Google Drive | gd  | https://drive.google.com/drive/search?q=%s | Search through your google drive for docs, sheets etc |
 | Google Images | gi  | https://www.google.com/search?tbm=isch&q=%s |     |
 | Google Keep | gk  | https://keep.google.com/u/0/#search/text%3D%s | Search through your keep notes |
